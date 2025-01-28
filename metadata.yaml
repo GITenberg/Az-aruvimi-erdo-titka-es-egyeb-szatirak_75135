@@ -1,5 +1,8 @@
 _repo: Az-aruvimi-erdo-titka-es-egyeb-szatirak_75135
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75135-h/images/cover.jpg
 creator:
   author:
     agent_name: Molnár, Ferenc
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ferenc_Moln%C3%A1r
     - https://hu.wikipedia.org/wiki/Moln%C3%A1r_Ferenc_(%C3%ADr%C3%B3)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75135#Az-aruvimi-erdo-titka-es-egyeb-szatirak
 gutenberg_issued: '2025-01-18'
 gutenberg_type: Text
 identifiers:
